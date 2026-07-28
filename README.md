@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
