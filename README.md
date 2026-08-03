@@ -33,6 +33,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -80,4 +81,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
