@@ -89,4 +89,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
