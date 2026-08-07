@@ -93,10 +93,12 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
