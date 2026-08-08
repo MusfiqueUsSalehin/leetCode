@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,11 +16,13 @@
 | [0141-linked-list-cycle](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,5 +104,10 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0338-counting-bits/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
