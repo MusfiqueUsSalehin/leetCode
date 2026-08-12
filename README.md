@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +118,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
