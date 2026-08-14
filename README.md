@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0268-missing-number/) | Easy |
@@ -17,6 +18,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -139,4 +141,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
