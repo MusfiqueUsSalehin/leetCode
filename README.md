@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/MusfiqueUsSalehin/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -89,6 +91,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -200,4 +203,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/MusfiqueUsSalehin/leetCode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
